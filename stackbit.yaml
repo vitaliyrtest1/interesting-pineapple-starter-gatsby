@@ -3,6 +3,9 @@ ssgName: gatsby
 nodeVersion: '12'
 publishDir: public
 pagesDir: content/blog
+assets:
+  assetsDir: src/images
+  referenceType: relative
 models:
   blog:
     type: page
